@@ -8,7 +8,7 @@
 
 ## 🧰 Languages and Tools
 
-| `react` | `next.js` | `git` | `html` | `css` | `javascript`
+`react` | `next.js` | `git` | `html` | `css` | `javascript`
 
 
 ## :mortar_board: Education
