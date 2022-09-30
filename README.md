@@ -1,5 +1,5 @@
 # Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-:rocket: I am a curious and ambitious student who is fascinated by the web and its future perspective
+:rocket: I am a curious and ambitious IT student that is fascinated by the web!
 
 :round_pushpin: For more here is my Linkedin!
 <br />
@@ -8,10 +8,11 @@
 
 ## 🧰 Languages and Tools
 
-`react` | `next.js` | `git` | `html` | `css` | `javascript`
+`typescript` | `javascript` | `react` | `next.js` | `git`
 
 
 ## :mortar_board: Education
 
-:computer: | I.T.T. Leonardo Da Vinci | Foligno, Italy | :it:
+:computer: | Univeristy of Pisa | Pisa, Italy | :it:
 --- | --- | --- | --- |
+:books: | I.T.T. Leonardo Da Vinci | Foligno, Italy | :it:
