@@ -1,5 +1,5 @@
 # Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-:rocket: I am a curious and ambitious IT student that is fascinated by the web!
+:rocket: I am a curious and ambitious IT student fascinated by the web!
 
 :round_pushpin: For more here is my Linkedin!
 <br />
@@ -8,7 +8,7 @@
 
 ## 🧰 Languages and Tools
 
-`typescript` | `javascript` | `react` | `next.js` | `git`
+`C` | `typescript` | `javascript` | `python` | `react` | `next.js` | `git`
 
 
 ## :mortar_board: Education
