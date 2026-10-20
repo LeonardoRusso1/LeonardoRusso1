@@ -13,6 +13,8 @@
 
 ## :mortar_board: Education
 
-:computer: | Univeristy of Pisa | Pisa, Italy | :it:
+:computer: | Università degli Studi di Milano | Milan, Italy | :it:
+--- | --- | --- | --- |
+:computer: | University of Pisa | Pisa, Italy | :it:
 --- | --- | --- | --- |
 :books: | I.T.T. Leonardo Da Vinci | Foligno, Italy | :it:
